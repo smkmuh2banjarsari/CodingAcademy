@@ -29,7 +29,7 @@ SMK Muhammadiyah 2 Banjarsari pada lingkungan Digital:
 
 [SMK Muhammadiyah 2 Banjarsari](https://www.smkm2banjarsari.sch.id/) and ![Logo](https://www.smkm2banjarsari.sch.id/assets/images/smkm2banjarsari.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
