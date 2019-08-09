@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[SMK Muhammadiyah 2 Banjarsari](https://www.smkm2banjarsari.sch.id) and ![SMK Muhammadiyah 2 Banjarsari](https://www.smkm2banjarsari.sch.id/assets/images/smkm2banjarsari.png)
+[https://www.smkm2banjarsari.sch.id](SMK Muhammadiyah 2 Banjarsari) and [SMK Muhammadiyah 2 Banjarsari](https://www.smkm2banjarsari.sch.id/assets/images/smkm2banjarsari.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
