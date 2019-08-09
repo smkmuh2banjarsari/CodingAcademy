@@ -1,18 +1,21 @@
 # Coding Academy
 
 Selamat datang di Coding Academy. 
-Pada coding academy kita akan belajar untuk bekerja dalam tim dan tekanan
+Pada coding academy kita akan belajar untuk bekerja dalam tim. 
 
-### Markdown
+## Apa Itu Coding Academy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Coding Academy adalah Coding Club dan kedepan kita akan menjadi ekstrakurikuler di SMK Muhammadiyah 2 Banjarsari.
 
 ```markdown
-Syntax highlighted code block
+Apa Yang kita Pelajari?
 
-# Header 1
-## Header 2
-### Header 3
+# Lingkungan SMK Muhammadiyah 2 Banjarsari
+SMK Muhammadiyah 2 Banjarsari pada lingkungan Digital:
+[Website](https://www.smkm2banjarsari.sch.id/)
+# Lingkungan Kerja Programmer
+
+# Bahasa Pemrograman
 
 - Bulleted
 - List
@@ -22,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[SMK Muhammadiyah 2 Banjarsari](https://www.smkm2banjarsari.sch.id/) and [SMK Muhammadiyah 2 Banjarsari](https://www.smkm2banjarsari.sch.id/assets/images/smkm2banjarsari.png)
+[SMK Muhammadiyah 2 Banjarsari](https://www.smkm2banjarsari.sch.id/) and ![Logo](https://www.smkm2banjarsari.sch.id/assets/images/smkm2banjarsari.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
