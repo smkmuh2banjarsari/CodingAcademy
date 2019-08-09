@@ -11,8 +11,11 @@ Coding Academy adalah Coding Club dan kedepan kita akan menjadi ekstrakurikuler 
 '''
 Apa Yang kita Pelajari?
 # Lingkungan SMK Muhammadiyah 2 Banjarsari
-SMK Muhammadiyah 2 Banjarsari pada lingkungan Digital:
-[Website](https://www.smkm2banjarsari.sch.id/)
+SMK Muhammadiyah 2 Banjarsari pada lingkungan Digital: 
+- [Website](https://www.smkm2banjarsari.sch.id/)
+- [Facebook](https://www.facebook.com/SMKMuhammadiyah2Banjarsari)
+- [Instagram](https://www.instagram.com/smkm2banjarsari)
+
 # Lingkungan Kerja Programmer
 
 # Bahasa Pemrograman
