@@ -6,7 +6,7 @@ Pada coding academy kita akan belajar untuk bekerja dalam tim.
 ## Apa Itu Coding Academy
 
 Coding Academy adalah Coding Club dan kedepan kita akan menjadi ekstrakurikuler di SMK Muhammadiyah 2 Banjarsari.
-
+[Website](https://www.smkm2banjarsari.sch.id/)
 ```markdown
 Apa Yang kita Pelajari?
 
