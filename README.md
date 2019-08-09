@@ -7,9 +7,9 @@ Pada coding academy kita akan belajar untuk bekerja dalam tim.
 
 Coding Academy adalah Coding Club dan kedepan kita akan menjadi ekstrakurikuler di SMK Muhammadiyah 2 Banjarsari.
 [Website](https://www.smkm2banjarsari.sch.id/)
-```markdown
-Apa Yang kita Pelajari?
 
+'''
+Apa Yang kita Pelajari?
 # Lingkungan SMK Muhammadiyah 2 Banjarsari
 SMK Muhammadiyah 2 Banjarsari pada lingkungan Digital:
 [Website](https://www.smkm2banjarsari.sch.id/)
@@ -26,7 +26,7 @@ SMK Muhammadiyah 2 Banjarsari pada lingkungan Digital:
 **Bold** and _Italic_ and `Code` text
 
 [SMK Muhammadiyah 2 Banjarsari](https://www.smkm2banjarsari.sch.id/) and ![Logo](https://www.smkm2banjarsari.sch.id/assets/images/smkm2banjarsari.png)
-```
+'''
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
